@@ -21,6 +21,7 @@ Você só precisa executar os seguintes comandos:
 ```bash
 # Clone this repository
 $ https://github.com/Alessandro1979-itac/mega-sena.git
+
 # Go into the repository
 $ cd mega-sena-random
 
