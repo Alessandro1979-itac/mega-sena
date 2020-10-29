@@ -4,9 +4,9 @@ import App from './pages/App';
 import GlobalStyle from './styles/Global';
 
 ReactDOM.render(
-    <React.StrictMode>
-        <App />
-        <GlobalStyle />
-    </React.StrictMode>,
-    document.getElementById('root')
+  <React.StrictMode>
+    <App />
+    <GlobalStyle/>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
